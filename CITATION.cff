@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Predicting smoking lapse from ecological momentary assessment without leakage: code"
+authors:
+  - family-names: Modiridovom
+    given-names: Ensieh
+    affiliation: "The University of Texas at San Antonio"
+  - family-names: Akopian
+    given-names: David
+    affiliation: "The University of Texas at San Antonio"
+  - family-names: Chalela
+    given-names: Patricia
+    affiliation: "UT Health San Antonio"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Predicting smoking lapse from ecological momentary assessment without leakage: a benchmark of 24 machine-learning configurations, fixed-horizon survival risk and cross-study transfer"
+  authors:
+    - family-names: Modiridovom
+      given-names: Ensieh
+    - family-names: Akopian
+      given-names: David
+    - family-names: Chalela
+      given-names: Patricia
+  status: submitted

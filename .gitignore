@@ -1,0 +1,21 @@
+# data (download separately; see data/README.md)
+data/*
+!data/README.md
+*.xlsx
+*.csv
+*.rds
+
+# results written by the notebooks
+*_results/
+*_results_quicktest/
+transfer_results*/
+paper_figures/
+predictions/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
