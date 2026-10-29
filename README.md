@@ -27,7 +27,7 @@ It also fits discrete-time survival models, replicates the main checks in two pr
 ## Setup
 
 ```bash
-git clone https://github.com/<your-account>/lapse-prediction-benchmark.git
+git clone https://github.com/E-Modiri/lapse-prediction-benchmark.git
 cd lapse-prediction-benchmark
 pip install -r requirements.txt
 ```
